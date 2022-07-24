@@ -1,2 +1,2 @@
-# FoodOrderingSystem
+# FoodOrdering
 New Repo
